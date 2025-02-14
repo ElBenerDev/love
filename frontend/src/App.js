@@ -11,7 +11,7 @@ import './styles/main.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/love">
       <div className="App">
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <div className="container">
